@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/dgozalo/goimportekscjxd7test1.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: dgozalo
+  repo: gotestcontrollerbuild1
+  url: https://github.com/dgozalo/gotestcontrollerbuild1.git
+  version: ""
+  versionURL: ""
