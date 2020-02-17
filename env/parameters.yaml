@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:test-cluster-cjxd7/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: dgozalo@cloudbees.com
+  token: vault:test-cluster-cjxd7/pipelineUser:token
+  username: dgozalo
+prow:
+  hmacToken: vault:test-cluster-cjxd7/prow:hmacToken
